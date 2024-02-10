@@ -1,8 +1,8 @@
-# Message Disappearing App
+# **Message Disappearing App**
 This simple application is built using Tkinter, a standard GUI (Graphical User Interface) toolkit for Python. The app allows users to type messages, and after a certain period of inactivity, the messages automatically disappear. Below are some key features and notes about the application:
 
 ## Features:
-1. **Auto-Disappearing Messages:** Messages entered into the text area will automatically disappear after a 4-second pause in typing.
+1.  **### Auto-Disappearing Messages:** Messages entered into the text area will automatically disappear after a 4-second pause in typing.
 
 Initial Placeholder Text: The text area is initialized with the message "Start Typing" in gray. This text disappears as soon as the user starts typing.
 
